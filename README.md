@@ -1,6 +1,6 @@
 # Zenclass Bootcamp Dashboard for Students
 
-![zenclass dashboard](https://github.com/renish47/zenclass_dashboard/assets/107568859/cfe4bb03-28b3-475a-8947-7e1ea32fc72e)
+![zenclass dashboard](https://github.com/renish47/zenclass_dashboard/assets/107568859/a066ade8-0a97-4175-98f1-638de719126b)
 
 Welcome to the Fullstack Bootcamp Dashboard for Students GitHub repository! This project is a responsive web application that serves as a comprehensive dashboard for students attending a full-stack bootcamp. It provides a modern interface and a range of features to help students manage their coursework effectively. This README file will guide you through the project, including its technology stack, deployment details, and key functionalities.
 
