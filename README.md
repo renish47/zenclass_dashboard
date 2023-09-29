@@ -37,6 +37,11 @@ Welcome to the Fullstack Bootcamp Dashboard for Students GitHub repository! This
 5. **Lesson Completion**: Students can mark lessons as complete, and the application will calculate and display lesson completion automatically.
 
 6. **Responsive Design**: The dashboard is fully responsive, ensuring a seamless experience for users on both large and small screens.
+   
+
+
+https://github.com/renish47/zenclass_dashboard/assets/107568859/cd61a277-5e55-4c3e-98e3-1335a06163ec
+
 
 ## Getting Started
 
