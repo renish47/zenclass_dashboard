@@ -75,7 +75,7 @@ To get started with the Fullstack Bootcamp Dashboard for Students, follow these 
    Frontend:
    ```bash
    cd client
-   npm start
+   npm run dev
    ```
 
    Backend:
