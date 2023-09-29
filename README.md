@@ -21,8 +21,8 @@ Welcome to the Fullstack Bootcamp Dashboard for Students GitHub repository! This
 
 ## Deployment
 
-- The frontend code is deployed on [Netlify](https://www.netlify.com/) and can be accessed at [Dashboard Frontend](https://your-frontend-url.netlify.app).
-- The backend code is deployed on [Render](https://render.com/) and can be accessed at [Dashboard Backend](https://your-backend-url.onrender.com). Please note that Render may take a minute to load the server if it has been idle due to its free hosting tier.
+- The frontend code is deployed on [Netlify](https://www.netlify.com/).
+- The backend code is deployed on [Render](https://render.com/). Please note that Render may take a minute to load the server if it has been idle due to its free hosting tier.
 
 ## Features
 
